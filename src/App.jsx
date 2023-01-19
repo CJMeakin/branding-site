@@ -1,6 +1,6 @@
 import { useState } from 'react'
 
-import './App.css'
+import './styles/App.css'
 import Builds from './components/Builds'
 import Contact from './components/Contact'
 
